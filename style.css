@@ -1,0 +1,70 @@
+body{
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    width: fit-content;
+}
+
+.masthead{
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+
+}  
+
+.color-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 0, 64, 0.612) ;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.form-label{
+    text-align: center;
+    background-color: rgb(90, 80, 160);
+    border-radius: 10px;
+    
+
+}
+
+.form-container{
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+input{
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.107);
+
+}
+
+#submit{
+    background-color: rgb(55, 200, 130);
+}
+
+.form-p{
+    font-size: 10px;
+    color: rgba(128, 128, 128, 0.485);
+
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+i{
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.694);
+
+}
+
